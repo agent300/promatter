@@ -48,3 +48,9 @@ body {
   font-size: 13px;
   color: #202024;
 }
+
+@media screen and (max-width : 600px){
+.wrap {
+  margin-top: 30%;
+    }
+}
